@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# APP for learning certain subjects in 5 mins, kindoflike duolingo ish. not done
 
 ## Project info
 
